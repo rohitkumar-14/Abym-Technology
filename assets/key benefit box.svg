@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="390.586" height="460.771" viewBox="0 0 390.586 460.771">
+  <defs>
+    <filter id="Path_129241" x="0" y="4.553" width="385.968" height="456.218" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="key_benefit_box_" data-name="key benefit box " transform="translate(-122.5 -5363.91)">
+    <path id="Path_129242" data-name="Path 129242" d="M32.231,35.835,308.737,0c17.8,0,32.231,12.7,32.231,28.369V377.76c0,15.668-14.43,28.369-32.231,28.369L32.231,401.65C14.43,401.65,0,388.949,0,373.281V64.2C0,48.536,14.43,35.835,32.231,35.835Z" transform="translate(172.118 5363.91)" fill="#065885"/>
+    <g transform="matrix(1, 0, 0, 1, 122.5, 5363.91)" filter="url(#Path_129241)">
+      <path id="Path_129241-2" data-name="Path 129241" d="M32.231,0H308.737c17.8,0,32.231,12.72,32.231,28.411v320c0,15.691-14.43,28.411-32.231,28.411L32.231,411.218C14.43,411.218,0,398.5,0,382.807V28.411C0,12.72,14.43,0,32.231,0Z" transform="translate(22.5 22.05)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
